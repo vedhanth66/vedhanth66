@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+I'm+Vedhanth+M;Aspiring+BTech+CSE+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C4CC¢er=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+I'm+Vedhanth+M;Aspiring+BTech+CSE+Engineer" alt="Typing SVG" />
 </div>
 
 ---
@@ -55,6 +55,10 @@
   <img src="https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
+  
+  <h4>Databases</h4>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   
   <h4>Design Tools</h4>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
