@@ -280,15 +280,4 @@ Scalable TCP server handling multiple concurrent clients with thread-safe messag
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
-<!-- Activity Graph -->
-[![Vedhanth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedhanth66&theme=tokyo-night&bg_color=0d1117&color=7EB2FF&line=7EB2FF&point=ffffff&area=true&hide_border=true)](https://github.com/vedhanth66)
-
-**💬 Open to Research Collaborations, Internships & Exciting Engineering Roles**
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Visit%20Portfolio-vedhanthm.vercel.app-7EB2FF?style=for-the-badge)](https://vedhanthm.vercel.app)
-
-![Profile Views](https://komarev.com/ghpvc/?username=vedhanth66&style=flat-square&color=7EB2FF&label=Profile+Views)
-
-*"Build systems that scale. Research ideas that matter. Ship work that lasts."*
-
 </div>
