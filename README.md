@@ -5,7 +5,7 @@
 
 <!-- Animated Typing -->
 <a href="https://vedhanthm.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=7EB2FF&center=true&vCenter=true&width=700&lines=CSE+%40+MIT+Bengaluru+%7C+CGPA%3A+9.19%2F10.0;IEEE+Access+Researcher;Meta+Certified+Full-Stack+Developer;IBM+Certified+Data+Scientist;IIT+Ropar+AI+%26+ML+Intern+%F0%9F%94%AC;Top+850+%2F+40%2C000%2B+%E2%80%94+India+AI+Impact+Buildathon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=7EB2FF&center=true&vCenter=true&width=700&lines=CSE+%40+MIT+Bengaluru+%7C+CGPA%3A+9.23%2F10.0;IEEE+Access+Researcher;Meta+Certified+Full-Stack+Developer;IBM+Certified+Data+Scientist;IIT+Ropar+AI+%26+ML+Intern+%F0%9F%94%AC;Top+850+%2F+40%2C000%2B+%E2%80%94+India+AI+Impact+Buildathon" alt="Typing SVG" />
 </a>
 
 <br/>
