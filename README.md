@@ -40,19 +40,19 @@ class VedhanthM:
             "Data & Content Engineer @ Fertig Learning Platform",
             "Summer Intern (AI/ML + MERN) @ IIT Ropar",
         ]
-        self.research    = "IEEE Access Researcher — SVD-based Model Compression"
+        self.research    = "IEEE Access Researcher SVD-based Model Compression"
         self.certified   = ["Meta Full-Stack", "IBM Data Science", "Apple × MAHE Swift"]
         self.mantra      = "Build it. Research it. Ship it. 🚀"
 
     def __repr__(self):
-        return f"{self.name} — where systems scale and research publishes."
+        return f"{self.name} where systems scale and research publishes."
 ```
 
 ---
 
 ## 📜 Research & Publications
 
-[L52] > 🏅 **IEEE Access Researcher** — Published Oct 2025
+[L52] > 🏅 **IEEE Access Researcher** Published Oct 2025
 
 **Adaptive Rank Pruning: Dynamic Low-Rank Model Merging and Compression for Efficient AI Deployment**
 
@@ -67,7 +67,7 @@ class VedhanthM:
 | 1 | Adaptive Rank Model Pruning for Enhanced Model Merging                   | **ICCCNT 2025** (16th IEEE) | Jul 2025 |
 | 2 | Geometry-Aware U-Net ResNet-34 for Robust Autonomous Runway Segmentation | **NQComp 2026**             | Jan 2026 |
 
-> 🔍 **Peer Reviewer** — IEEE Access Journals · 15+ AI/ML Papers Reviewed
+> 🔍 **Peer Reviewer** IEEE Access Journals · 15+ AI/ML Papers Reviewed
 
 ---
 
@@ -89,7 +89,7 @@ class VedhanthM:
 
 <td width="50%">
 
-### 🔬 Summer Intern — AI/ML & MERN
+### 🔬 Summer Intern AI/ML & MERN
 
 **IIT Ropar** · *May 2026 – July 2026*
 
@@ -131,7 +131,7 @@ class VedhanthM:
 <tr>
 <td width="50%">
 
-### ⚖️ AXIOM — AI Fairness & Bias Auditing
+### ⚖️ AXIOM AI Fairness & Bias Auditing
 
 `FastAPI` `React` `TypeScript` `Gemini API` `Three.js` `Python`
 
@@ -143,11 +143,11 @@ AI fairness auditing platform using **counterfactual twin injection** and **10,0
 
 <td width="50%">
 
-### 🛫 GlideSight — AI Runway Detection
+### 🛫 GlideSight AI Runway Detection
 
 `PyTorch` `U-Net` `ResNet-34` `OpenCV` `CUDA` `Gradio`
 
-**🏆 Top 10 — Honeywell Hackspace National Hackathon**
+**🏆 Top 10 Honeywell Hackspace National Hackathon**
 
 Semantic segmentation pipeline for runway detection achieving **~0.81 peak validation IoU** and **~0.80 test IoU** in a 48-hour national AI/ML hackathon.
 
@@ -156,11 +156,11 @@ Semantic segmentation pipeline for runway detection achieving **~0.81 peak valid
 <tr>
 <td width="50%">
 
-### 🕵️ Agentic Honey-Pot — Scam Detection
+### 🕵️ Agentic Honey-Pot Scam Detection
 
 `Python` `FastAPI` `Ollama` `Multi-Agent AI`
 
-**🏅 Top 850 / 40,000+ Teams — India AI Impact Buildathon**
+**🏅 Top 850 / 40,000+ Teams India AI Impact Buildathon**
 
 Multi-agent active-defence framework deploying **3 AI personas** to autonomously engage fraudsters and extract threat intelligence including UPI IDs, bank accounts, and phishing links.
 
@@ -168,7 +168,7 @@ Multi-agent active-defence framework deploying **3 AI personas** to autonomously
 
 <td width="50%">
 
-### ⚖️ Nyaya Mitra — AI Legal Assistance
+### ⚖️ Nyaya Mitra AI Legal Assistance
 
 `React` `TypeScript` `FastAPI` `Supabase` `Groq` `ChromaDB`
 
@@ -179,7 +179,7 @@ Full-stack legal-tech platform with **AI-driven document analysis**, ChromaDB re
 <tr>
 <td width="50%">
 
-### 🗄️ DataClerk OpenEnv — AI Business Intelligence
+### 🗄️ DataClerk OpenEnv AI Business Intelligence
 
 `Python` `FastAPI` `SQL` `Docker` `Hugging Face Spaces`
 
@@ -193,7 +193,7 @@ OpenEnv-compatible SQL environment for AI agents to perform **revenue, customer-
 
 `Node.js` `Express.js` `Socket.IO` `WebSockets`
 
-Full-featured multiplayer chess platform with WebSocket-based synchronisation for instant move propagation — supports simultaneous players and spectators.
+Full-featured multiplayer chess platform with WebSocket-based synchronisation for instant move propagation supports simultaneous players and spectators.
 
 </td>
 </tr>
@@ -279,9 +279,9 @@ Full-featured multiplayer chess platform with WebSocket-based synchronisation fo
 
 | 🎖️ Achievement                   | Details                                     |
 | --------------------------------- | ------------------------------------------- |
-| 🥇 **India AI Impact Buildathon** | Top 850 / 40,000+ Teams — Agentic Honey-Pot |
-| 🏅 **Honeywell Hackspace**        | Top 10 Finalist — National AI/ML Hackathon  |
-| 🎓 **University Top Ranker**      | CGPA 9.23/10.0 — MIT Bengaluru              |
+| 🥇 **India AI Impact Buildathon** | Top 850 / 40,000+ Teams Agentic Honey-Pot |
+| 🏅 **Honeywell Hackspace**        | Top 10 Finalist National AI/ML Hackathon  |
+| 🎓 **University Top Ranker**      | CGPA 9.23/10.0 MIT Bengaluru              |
 | 🏀 **State-Level Athlete**        | Basketball (State); Badminton (Intra-state) |
 | ✍️ **First Place**                | Kannada Poetry Competition                  |
 | 🛡️ **UIDAI Aadhaar Hackathon**   | Developed "MBU-Sentinel" model              |
@@ -310,7 +310,7 @@ Full-featured multiplayer chess platform with WebSocket-based synchronisation fo
 ✅ Real-Time Systems (WebSockets, Socket.IO)        ✅ Model Compression & Edge AI (SVD, LoRA)
 ✅ Computer Vision (U-Net, ResNet, CUDA)            ✅ JWT Auth & Role-Based Access Control
 ✅ LLM Integration & Agentic AI Architectures       ✅ System Design & Data Structures
-✅ Docker, GCP, DNS & Cloud Deployment              ✅ UI/UX — Figma to Framer to Code
+✅ Docker, GCP, DNS & Cloud Deployment              ✅ UI/UX Figma to Framer to Code
 ```
 
 ---
