@@ -1,259 +1,264 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=VEDHANTH%20M&fontSize=58&fontColor=ffffff&fontAlignY=37&desc=AI%2FML%20%26%20FULL-STACK%20ENGINEER%20%7C%20IEEE%20RESEARCHER&descAlignY=60&descSize=17&animation=fadeIn"/>
+<!-- Dynamic Banner -->
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vedhanth%20M&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20IEEE%20Researcher%20%E2%80%A2%20AI%2FML%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
 
-<a href="https://vedhanthm.vercel.app">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1200&color=7EB2FF&center=true&vCenter=true&width=850&lines=CSE+%40+MIT+Bengaluru+%7C+CGPA%3A+9.23%2F10.0;AI%2FML+%26+Full-Stack+Engineer;IEEE+Access+Researcher;Published+in+AI%2FML+%26+Computer+Vision;IIT+Ropar+AI%2FML+%26+MERN+Intern;Top+850+%2F+40%2C000%2B+%E2%80%94+India+AI+Impact+Buildathon" alt="Typing SVG"/>
-</a>
-
-<br/><br/>
+<!-- Animated Typing -->
 
 <a href="https://vedhanthm.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-vedhanthm.vercel.app-7EB2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/vedhanth-m-703131300">
-<img src="https://img.shields.io/badge/LinkedIn-Vedhanth%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/vedhanth66">
-<img src="https://img.shields.io/badge/GitHub-vedhanth66-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:vedhanthmanju@gmail.com">
-<img src="https://img.shields.io/badge/Email-vedhanthmanju%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=7EB2FF&center=true&vCenter=true&width=700&lines=CSE+%40+MIT+Bengaluru+%7C+CGPA%3A+9.23%2F10.0;IEEE+Access+Researcher;Meta+Certified+Full-Stack+Developer;IBM+Certified+Data+Scientist;IIT+Ropar+AI+%26+ML+Intern+%F0%9F%94%AC;Top+850+%2F+40%2C000%2B+%E2%80%94+India+AI+Impact+Buildathon" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://leetcode.com/u/hWANQmwYyN/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/profile/vedhanthmanju">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=white"/>
-</a>
+<!-- Profile Badges -->
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-vedhanthm.vercel.app-7EB2FF?style=flat-square\&logo=vercel\&logoColor=white)](https://vedhanthm.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedhanth%20M-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vedhanth-m-703131300)
+[![GitHub](https://img.shields.io/badge/GitHub-vedhanth66-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/vedhanth66)
+[![Email](https://img.shields.io/badge/Email-vedhanthmanju%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:vedhanthmanju@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/hWANQmwYyN/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat-square\&logo=hackerrank\&logoColor=white)](https://www.hackerrank.com/profile/vedhanthmanju)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🧬 About Me
 
-I'm **Vedhanth M**, a Computer Science undergraduate at **Manipal Institute of Technology, Bengaluru**, with a **9.23/10.0 CGPA** and a focus on **AI/ML, full-stack engineering, and applied research**.
+```python
+class VedhanthM:
+    def __init__(self):
+        self.name        = "Vedhanth M"
+        self.location    = "Bengaluru, Karnataka, India"
+        self.university  = "Manipal Institute of Technology (MIT)"
+        self.degree      = "B.Tech CSE  |  CGPA: 9.23 / 10.0  |  University Top Ranker"
+        self.batch       = "2024 – 2028"
+        self.roles       = [
+            "Founding Full-Stack Developer @ ShreeKara Kalagruha",
+            "Data & Content Engineer @ Fertig Learning Platform",
+            "Summer Intern (AI/ML + MERN) @ IIT Ropar",
+        ]
+        self.research    = "IEEE Access Researcher — SVD-based Model Compression"
+        self.certified   = ["Meta Full-Stack", "IBM Data Science", "Apple × MAHE Swift"]
+        self.mantra      = "Build it. Research it. Ship it. 🚀"
 
-I enjoy working across the entire stack — from designing React interfaces and backend APIs to building AI pipelines, data-driven systems, and research prototypes.
+    def __repr__(self):
+        return f"{self.name} — where systems scale and research publishes."
+```
 
-My work spans:
+---
 
-* 🤖 AI/ML and agentic systems
-* 🧠 Model compression and efficient AI
-* 🌐 Full-stack web applications
-* 👁️ Computer vision
-* 📚 AI-assisted legal and learning platforms
-* 🗄️ Data and SQL-driven systems
-* ⚡ Real-time and deployable applications
+## 📜 Research & Publications
 
-> **Build it. Research it. Ship it.**
+[L52] > 🏅 **IEEE Access Researcher** — Published Oct 2025
+
+**Adaptive Rank Pruning: Dynamic Low-Rank Model Merging and Compression for Efficient AI Deployment**
+
+> Designed an SVD-based adaptive low-rank pruning method achieving **2.5× model size reduction** with lower inference latency and better energy efficiency than LoRA and QLoRA on edge hardware.
+
+---
+
+> 📑 **Conference Papers**
+
+| # | Title                                                                    | Venue                       | Date     |
+| - | ------------------------------------------------------------------------ | --------------------------- | -------- |
+| 1 | Adaptive Rank Model Pruning for Enhanced Model Merging                   | **ICCCNT 2025** (16th IEEE) | Jul 2025 |
+| 2 | Geometry-Aware U-Net ResNet-34 for Robust Autonomous Runway Segmentation | **NQComp 2026**             | Jan 2026 |
+
+> 🔍 **Peer Reviewer** — IEEE Access Journals · 15+ AI/ML Papers Reviewed
 
 ---
 
 ## 💼 Experience
 
-### 🔬 Summer Intern — AI/ML & MERN
-
-**Indian Institute of Technology, Ropar** · *May 2026 – July 2026*
-
-* Contributed to open-source AI/ML and MERN-stack projects.
-* Worked across machine-learning workflows, backend services, and full-stack development.
+<table>
+<tr>
+<td width="50%">
 
 ### 🏗️ Founding Full-Stack Developer
 
 **ShreeKara Kalagruha** · *Jun 2025 – May 2026*
 
-* Architected a full-stack business platform using **React.js, FastAPI, MongoDB, and REST APIs**.
-* Implemented **JWT authentication, role-based access control, responsive UI, deployment workflows, and performance optimisation**.
+* Architected full-stack platform: **React.js + FastAPI + MongoDB**
+* Implemented **JWT auth** + role-based access control
+* Managed deployment, feature releases & performance optimisation
+
+</td>
+
+<td width="50%">
+
+### 🔬 Summer Intern — AI/ML & MERN
+
+**IIT Ropar** · *May 2026 – July 2026*
+
+* Contributing to real-time **open-source projects**
+* Work spans **AI/ML research** and full-stack MERN development
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 📚 Data & Content Engineer
 
-**Fertig — Student Learning Platform** · *Jun 2025 – Present*
+**Fertig Learning Platform** · *Jun 2025 – Present*
 
-* Co-built and maintain a live learning platform serving **500+ active users**.
-* Engineered structured data pipelines and content schemas for **PYQ banks, practice tests, tagging, and subject-wise learning workflows**.
+* Engineered **data pipelines** and content schemas for PYQ banks
+* Ensured accurate tagging, coverage, and pedagogical organisation
+
+</td>
+
+<td width="50%">
 
 ### 🌐 Freelance Web Developer
 
-**Shree Guru Mess** · *Dec 2025*
+**Shree Guru Mess** · *Dec 2025 (Completed)*
 
-* Delivered a commercial responsive SPA using **React, Tailwind CSS, and Framer Motion** with reusable components, filtering, analytics, and Vercel deployment.
+* Delivered responsive commercial site: **React, HTML5, CSS3**
+* SEO-friendly semantic structure, mobile-first, full project lifecycle
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⚖️ AXIOM — AI Fairness & Bias Auditing Platform
+<table>
+<tr>
+<td width="50%">
 
-`FastAPI` `React` `TypeScript` `Gemini API` `Three.js` `Python` `Algorithmic Fairness`
+### ⚖️ AXIOM — AI Fairness & Bias Auditing
+
+`FastAPI` `React` `TypeScript` `Gemini API` `Three.js` `Python`
 
 **GDG Solution Challenge 2026**
 
-Built an AI fairness auditing platform using **counterfactual twin injection** and **10,000 synthetic personas** to measure intersectional bias, with automated fairness metrics, LLM explanations, and interactive 3D bias visualisation.
+AI fairness auditing platform using **counterfactual twin injection** and **10,000 synthetic personas** to measure intersectional bias, with automated fairness metrics, LLM explanations, and interactive 3D bias visualisation.
+
+</td>
+
+<td width="50%">
+
+### 🛫 GlideSight — AI Runway Detection
+
+`PyTorch` `U-Net` `ResNet-34` `OpenCV` `CUDA` `Gradio`
+
+**🏆 Top 10 — Honeywell Hackspace National Hackathon**
+
+Semantic segmentation pipeline for runway detection achieving **~0.81 peak validation IoU** and **~0.80 test IoU** in a 48-hour national AI/ML hackathon.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🕵️ Agentic Honey-Pot — Scam Detection
+
+`Python` `FastAPI` `Ollama` `Multi-Agent AI`
+
+**🏅 Top 850 / 40,000+ Teams — India AI Impact Buildathon**
+
+Multi-agent active-defence framework deploying **3 AI personas** to autonomously engage fraudsters and extract threat intelligence including UPI IDs, bank accounts, and phishing links.
+
+</td>
+
+<td width="50%">
+
+### ⚖️ Nyaya Mitra — AI Legal Assistance
+
+`React` `TypeScript` `FastAPI` `Supabase` `Groq` `ChromaDB`
+
+Full-stack legal-tech platform with **AI-driven document analysis**, ChromaDB retrieval, Groq LLM workflows, PDF processing, and OCR for case and legal-information workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗄️ DataClerk OpenEnv — AI Business Intelligence
+
+`Python` `FastAPI` `SQL` `Docker` `Hugging Face Spaces`
+
+OpenEnv-compatible SQL environment for AI agents to perform **revenue, customer-risk, and business-health analysis** using programmatic grading and reward shaping; deployed with Docker on Hugging Face Spaces.
+
+</td>
+
+<td width="50%">
+
+### ♟️ Real-Time Multiplayer Chess
+
+`Node.js` `Express.js` `Socket.IO` `WebSockets`
+
+Full-featured multiplayer chess platform with WebSocket-based synchronisation for instant move propagation — supports simultaneous players and spectators.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛫 GlideSight — AI-Powered Runway Detection
+## 🛠️ Tech Stack
 
-`PyTorch` `U-Net` `ResNet-34` `OpenCV` `Gradio` `CUDA`
+<div align="center">
 
-**🏆 Top 10 — Honeywell Hackspace National AI/ML Hackathon**
-
-Built a U-Net/ResNet-34 semantic segmentation pipeline for runway detection, achieving **~0.81 peak validation IoU** and **~0.80 test IoU** in a 48-hour national hackathon.
-
----
-
-### 🕵️ Agentic Honey-Pot — Persona-Driven Scam Detection
-
-`Python` `FastAPI` `Ollama` `Multi-Agent Systems`
-
-**🏅 Top 850 / 40,000+ — India AI Impact Buildathon**
-
-Architected a multi-agent active-defence framework using **3 AI personas** to autonomously engage fraudsters and extract structured threat intelligence including **UPI IDs, bank accounts, and phishing links**.
-
----
-
-### ⚖️ Nyaya Mitra — AI-Powered Legal Assistance Platform
-
-`React` `TypeScript` `FastAPI` `Supabase` `Groq` `ChromaDB` `PyTorch` `EasyOCR`
-
-Built a full-stack legal-tech platform with **AI-driven document analysis**, integrating **ChromaDB retrieval, Groq LLM workflows, PDF processing, and OCR** for case and legal-information workflows.
-
----
-
-### 🗄️ DataClerk OpenEnv — AI Business Intelligence Agent Environment
-
-`Python` `FastAPI` `SQL` `Docker` `Hugging Face Spaces` `OpenEnv`
-
-Built an OpenEnv-compatible SQL environment for AI agents to perform **revenue, customer-risk, and business-health analysis** using programmatic grading and reward shaping; deployed with Docker on Hugging Face Spaces.
-
----
-
-## 🔬 Research & Publications
-
-### 🏅 IEEE Access
-
-**Adaptive Rank Pruning: Dynamic Low-Rank Model Merging and Compression for Efficient AI Deployment**
-
-Proposed an **SVD-based adaptive low-rank pruning** method achieving **2.5× model-size reduction** while maintaining competitive accuracy and reducing inference cost on edge hardware.
-
-### 📑 Conference Publications
-
-| Publication                                                                                                 | Venue                       |
-| ----------------------------------------------------------------------------------------------------------- | --------------------------- |
-| Adaptive Rank Model Pruning for Enhanced Model Merging: A Novel Approach for Efficient AI Model Compression | **ICCCNT 2025 (16th IEEE)** |
-| Geometry-Aware U-Net ResNet-34 for Robust Autonomous Runway Segmentation                                    | **NQComp 2026**             |
-
-### 🔍 Peer Review
-
-**IEEE Access Peer Reviewer** · Reviewed **15+ AI/ML research papers**
-
----
-
-## 🧰 Technical Stack
-
-### Languages
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge\&logo=swift\&logoColor=white)
 
-### Frontend
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### Backend & Databases
+**Backend & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
-### AI / ML
+**AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
 
-### Cloud, DevOps & Tools
+**DevOps & Cloud**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
 
----
+**Design**
 
-## 🏆 Achievements
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
 
-| Achievement                     | Result                                     |
-| ------------------------------- | ------------------------------------------ |
-| 🥇 India AI Impact Buildathon   | **Top 850 / 40,000+ teams**                |
-| 🏅 Honeywell Hackspace          | **Top 10 Finalist**                        |
-| 🔍 IEEE Access Peer Review      | **15+ AI/ML papers reviewed**              |
-| 🎓 MIT Bengaluru                | **University Top Ranker — 9.23/10.0 CGPA** |
-| 🤖 Google Agentic AI Hack2Skill | **Selected — 2025**                        |
-| 💡 GDG Solution Challenge       | **Selected — 2026**                        |
-| 🏀 Basketball                   | **State-Level Player**                     |
-| 🏸 Badminton                    | **Intra-State Player**                     |
-| ✍️ Kannada Poetry               | **1st Place**                              |
-
----
-
-## 🎓 Certifications
-
-**Meta Full-Stack Developer**
-**IBM Data Science Professional Certificate**
-**Apple × MAHE — Swift iOS Development**
-**MathWorks — Deep Learning, MATLAB & Simulink**
-**BITS Pilani — Algorithm Design**
-**HackerRank — Python, Java, SQL, JavaScript**
-
----
-
-## 🧠 Core Strengths
-
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│  🤖 AI / ML & LLMs          ⚙️ Full-Stack Engineering      🧠 Research        │
-│  Computer Vision             React + FastAPI               IEEE Publications  │
-│  Agentic AI                  Node.js + Express             Model Compression   │
-│  Fairness / XAI              REST APIs                     SVD / Efficient AI │
-│                                                                              │
-│  🗄️ Data & Systems           ☁️ Deployment                  🔐 Engineering     │
-│  SQL / Databases              Docker / Linux               JWT / RBAC         │
-│  OpenEnv / BI Agents          GCP / Vercel                 Real-Time Systems  │
-│  Data Pipelines               Hugging Face                 System Design      │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+</div>
 
 ---
 
@@ -261,33 +266,57 @@ Proposed an **SVD-based adaptive low-rank pruning** method achieving **2.5× mod
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedhanth66&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7EB2FF&icon_color=7EB2FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedhanth66&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7EB2FF&icon_color=7EB2FF&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedhanth66&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7EB2FF&text_color=c9d1d9&langs_count=8" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedhanth66&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7EB2FF&text_color=c9d1d9&langs_count=8"/>
-
-<br/>
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedhanth66&theme=tokyonight&hide_border=true&background=0d1117&ring=7EB2FF&fire=7EB2FF&currStreakLabel=7EB2FF"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedhanth66&theme=tokyonight&hide_border=true&background=0d1117&ring=7EB2FF&fire=7EB2FF&currStreakLabel=7EB2FF" />
 
 </div>
 
 ---
 
+## 🏆 Achievements & Awards
+
+| 🎖️ Achievement                   | Details                                     |
+| --------------------------------- | ------------------------------------------- |
+| 🥇 **India AI Impact Buildathon** | Top 850 / 40,000+ Teams — Agentic Honey-Pot |
+| 🏅 **Honeywell Hackspace**        | Top 10 Finalist — National AI/ML Hackathon  |
+| 🎓 **University Top Ranker**      | CGPA 9.23/10.0 — MIT Bengaluru              |
+| 🏀 **State-Level Athlete**        | Basketball (State); Badminton (Intra-state) |
+| ✍️ **First Place**                | Kannada Poetry Competition                  |
+| 🛡️ **UIDAI Aadhaar Hackathon**   | Developed "MBU-Sentinel" model              |
+| 🔍 **IEEE Peer Reviewer**         | 15+ AI/ML Research Papers Reviewed          |
+
+---
+
+## 🎓 Certifications
+
 <div align="center">
 
-### 📫 Let's Connect
+[![Meta](https://img.shields.io/badge/Meta-Full--Stack%20Developer-0866FF?style=for-the-badge\&logo=meta\&logoColor=white)](https://www.coursera.org)
+[![IBM](https://img.shields.io/badge/IBM-Data%20Science%20Professional-052FAD?style=for-the-badge\&logo=ibm\&logoColor=white)](https://www.coursera.org)
+[![Apple](https://img.shields.io/badge/Apple%20×%20MAHE-Swift%20iOS%20Development-000000?style=for-the-badge\&logo=apple\&logoColor=white)](https://www.coursera.org)
+[![MathWorks](https://img.shields.io/badge/MathWorks-Deep%20Learning%20%7C%20MATLAB-D9422A?style=for-the-badge\&logo=mathworks\&logoColor=white)](https://matlabacademy.mathworks.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Python%20%7C%20Java%20%7C%20SQL%20%7C%20JS-00EA64?style=for-the-badge\&logo=hackerrank\&logoColor=white)](https://www.hackerrank.com/profile/vedhanthmanju)
 
-<a href="https://vedhanthm.vercel.app">Portfolio</a>
- •  <a href="https://www.linkedin.com/in/vedhanth-m-703131300">LinkedIn</a>
- •  <a href="https://github.com/vedhanth66">GitHub</a>
- •  <a href="mailto:vedhanthmanju@gmail.com">Email</a>
+</div>
 
-<br/><br/>
+---
 
-<i>Building systems. Exploring intelligence. Publishing research.</i>
+## 🤝 Core Competencies
 
-<br/><br/>
+```
+✅ Production-Grade Full-Stack (MERN + FastAPI)    ✅ IEEE-Published AI/ML Research
+✅ Real-Time Systems (WebSockets, Socket.IO)        ✅ Model Compression & Edge AI (SVD, LoRA)
+✅ Computer Vision (U-Net, ResNet, CUDA)            ✅ JWT Auth & Role-Based Access Control
+✅ LLM Integration & Agentic AI Architectures       ✅ System Design & Data Structures
+✅ Docker, GCP, DNS & Cloud Deployment              ✅ UI/UX — Figma to Framer to Code
+```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 </div>
